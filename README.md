@@ -1,6 +1,6 @@
 # todo_app_flutter
 
-A todo app with flutter and bloc that was made for learning purpose.
+A todo app with flutter bloc and sqflite that was made for learning purpose.
 
 ## Getting Started
 
