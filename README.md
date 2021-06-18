@@ -1,6 +1,6 @@
 # todo_app_flutter
 
-A new Flutter project.
+A todo app with flutter and bloc that was made for learning purpose.
 
 ## Getting Started
 
