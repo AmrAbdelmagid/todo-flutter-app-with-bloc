@@ -1,16 +1,10 @@
 # todo_app_flutter
 
-A todo app with flutter bloc and sqflite that was made for learning purpose.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/52869694/123996409-98cd9680-d9cf-11eb-9526-cee3ad01ad7d.png" width="400" height="750">
+<img src="https://user-images.githubusercontent.com/52869694/123996413-99662d00-d9cf-11eb-88c1-097345745bc2.png" width="400" height="750">
+<img src="https://user-images.githubusercontent.com/52869694/123996416-99fec380-d9cf-11eb-9381-d36930a31351.png" width="400" height="750">
+<img src="https://user-images.githubusercontent.com/52869694/123996421-9a975a00-d9cf-11eb-96e9-d6810eb367ad.png" width="400" height="750">
+<img src="https://user-images.githubusercontent.com/52869694/123996424-9b2ff080-d9cf-11eb-8a9f-07dd35ca141c.png" width="400" height="750">
+<img src="https://user-images.githubusercontent.com/52869694/123996425-9bc88700-d9cf-11eb-8199-e7335df9fa0b.png" width="400" height="750">
+<img src="https://user-images.githubusercontent.com/52869694/123996426-9bc88700-d9cf-11eb-86a7-4fbe1711dbac.png" width="400" height="750">
+<img src="https://user-images.githubusercontent.com/52869694/123996429-9c611d80-d9cf-11eb-99f8-8cd438403099.png" width="400" height="750">
